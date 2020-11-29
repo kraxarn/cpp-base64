@@ -1,6 +1,9 @@
 # base64 (C++)
 
-Base64 encoding and decoding with c++
+Header-only Base64 encoding and decoding with C++11.
+
+This fork makes the library header-only, wraps everything inside a base64 class and removes C++17 features.
+No further modifications made.
 
 ## See also
 
